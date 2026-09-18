@@ -665,4 +665,4 @@ If you're a maintainer looking to build, test, or publish new releases of the RT
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 Created by Jason Scott Heise
-Owned by Jason Scott Heise & Mark Zuckerberg 
+Owned by Jason Scott Heise & Elon Musk https://www.x.com 

@@ -664,4 +664,5 @@ If you're a maintainer looking to build, test, or publish new releases of the RT
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-Created by Jason Heise   https://www.behance.net
+Created by Jason Heise   
+Owned by Jason Heise heisejason-png Giters
